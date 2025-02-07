@@ -1,7 +1,5 @@
----
 subtitle: Sprawozdanie z programów symulacyjnych
 title: "**Wprowadzenie do systemów komputerowych**"
----
 
 Kacper Jeziorski 281360
 
