@@ -21,8 +21,6 @@
 - LRU.py - Moduł zawierający funkcję wykonującą algorytm zastępowania
   stron LRU i zwracającą ilość błędów stron dla tego algorytmu.
 
-## **Część I**
-
 ## **Algorytmy planowania czasu procesora**
 
 Wykorzystane algorytmy i ich opis:
@@ -95,8 +93,6 @@ redukuje kolejki zadań oczekujących na wykonanie.
 Analizując przedstawione wyżej dane możemy stwierdzić, że o wiele lepiej
 wypada algorytm SJF, ponieważ oferuje on lepsze czasy oczekiwania i
 zwrotu.
-
-## **Część II**
 
 ## **Algorytmy zastępowania stron**
 
