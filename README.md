@@ -1,13 +1,13 @@
-### Programy Symulacyjne
+# Programy Symulacyjne
 
-Struktura programu:
+### Struktura programu:
 
 - main.py - Główny plik odpowiedzialny za przeprowadzenie symulacji.
   Zawiera ustawienia początkowe, funkcje generujące oraz symulacyjne.
 
 > Skrypty znajdujące się w katalogu „scripts":
 
-- FCFS.py -- Moduł zawierający funkcję wykonującą algorytm planowania
+- FCFS.py - Moduł zawierający funkcję wykonującą algorytm planowania
   czasu procesora FCFS i zwracającą średnie czasy zwrotu oraz
   oczekiwania sekwencji procesów dla tego algorytmu.
 
